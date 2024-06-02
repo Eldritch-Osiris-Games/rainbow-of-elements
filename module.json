@@ -1,0 +1,94 @@
+{
+	"id": "rainbow-of-elements",
+	"title":"Rainbow of Elements",
+	"description":"With 8 new elements, you can become a master of the elemental energies of: aether, awareness, light, shadow, spirit, time, vitality and void! In addition, you can find expansions for the elements of: air, earth, fire, metal, water, and wood as well as composite elements and expansions to the monk class and houses of perfection!",
+"manifest":"https://raw/githubusercontent.com/Eldritch-Osiris-Games/rainbow-of-elements/main/module.json",
+"download":"https://github.com/Eldritch-Osiris-Games/rainbow-of-elements/archive/refs/heads/main.zip",
+	"authors":[{
+		"name":"Eldritch Osiris Games"
+	}],
+	"version": "1.0.0",
+	"packs": [
+		{
+		"label":"Gates",
+		"name":"RoE-Gates",
+		"path":"packs/roe-gates",
+		"system":"pf2e",
+		"type": "Item"
+		},{
+		"label":"Effects",
+		"name":"RoE-Effects",
+		"path":"packs/roe-effects",
+		"system":"pf2e",
+		"type": "Item"
+		},{
+		"label":"Feats",
+		"name":"RoE-Feats",
+		"path":"packs/roe-feats",
+		"system":"pf2e",
+		"type": "Item"
+		},{
+		"label":"Spells",
+		"name":"RoE-Spells",
+		"path":"packs/roe-spells",
+		"system":"pf2e",
+		"type":"Item"
+		},{
+		"label":"Journals",
+		"name":"RoE-Journals",
+		"path":"packs/roe-journals",
+		"system":"pf2e",
+		"type":"JournalEntry"
+		}
+		],
+	"flags":{
+		"rainbow-of-elements":{
+			"pf2e-homebrew":{
+				"featTraits":{
+					"aether":{
+						"label":"Aether",
+						"description":"Related to the element of Aether."
+					},
+					"awareness":{
+						"label":"Awareness",
+						"description":"Related to the element of Awareness."
+					},
+					"chromatic":{
+						"label":"Chromatic",
+						"description":"If you used a different action with this trait since the beginning of your last turn, you can ignore the overflow trait of this impulse."
+					},
+					"splash":{
+						"label":"Splash",
+						"description":"PF2E.TraitSplash"
+					}
+				},
+				"creatureTraits":{
+					"aether":{
+						"label":"Aether",
+						"description":"Related to the element of Aether."
+					},
+					"awareness":{
+						"label":"Awareness",
+						"description":"Related to the element of Awareness."
+					}
+			}
+			}
+		}
+	},
+	"relationships": {
+		"systems": [{
+			"id": "pf2e",
+			"type": "system",
+			"compatibility": {
+				"minimum": "5.15"
+				}
+			}]
+	},
+	"compatibility": {
+		"minimum": "11.315",
+		"verified": "11.315"
+		}
+
+}
+	
+		
