@@ -3,7 +3,7 @@
 	"title":"Rainbow of Elements",
 	"description":"With 8 new elements, you can become a master of the elemental energies of: aether, awareness, light, shadow, spirit, time, vitality and void! In addition, you can find expansions for the elements of: air, earth, fire, metal, water, and wood as well as composite elements and expansions to the monk class and houses of perfection!",
 "manifest":"https://raw/githubusercontent.com/Eldritch-Osiris-Games/rainbow-of-elements/main/module.json",
-"download":"https://github.com/Eldritch-Osiris-Games/rainbow-of-elements/archive/refs/heads/main.zip",
+"download":"https://github.com/Eldritch-Osiris-Games/rainbow-of-elements/archive/refs/tags/release.zip",
 	"authors":[{
 		"name":"Eldritch Osiris Games"
 	}],
