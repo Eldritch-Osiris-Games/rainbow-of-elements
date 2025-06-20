@@ -7,7 +7,7 @@
 	"authors":[{
 		"name":"Eldritch Osiris Games"
 	}],
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"packs": [
 		{
 		"label":"Gates",
@@ -86,7 +86,7 @@
 	},
 	"compatibility": {
 		"minimum": "11.315",
-		"verified": "11.315"
+		"verified": "13"
 		}
 
 }
